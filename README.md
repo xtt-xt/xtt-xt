@@ -74,3 +74,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=xtt-xt&theme=onedark&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://raw.githubusercontent.com/xtt-xt/xtt-xt/main/profile-3d-contrib/profile-green-animate.svg)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xtt-xt/Nemo-Mobile-Mod-Studio&type=Date)](https://www.star-history.com/#xtt-xt/Nemo-Mobile-Mod-Studio&Date)

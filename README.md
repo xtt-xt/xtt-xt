@@ -79,3 +79,7 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xtt-xt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- 开发者战力六维图 -->
+![Developer Power Meter](https://stats.hyo.dev/api/github-stats-advanced?login=xtt-xt)

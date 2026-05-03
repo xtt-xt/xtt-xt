@@ -76,3 +76,6 @@
 ![](https://raw.githubusercontent.com/xtt-xt/xtt-xt/main/profile-3d-contrib/profile-green-animate.svg)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xtt-xt/Nemo-Mobile-Mod-Studio&type=Date)](https://www.star-history.com/#xtt-xt/Nemo-Mobile-Mod-Studio&Date)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xtt-xt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
